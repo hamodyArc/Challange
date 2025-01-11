@@ -12,3 +12,4 @@ print("Gain:", gain, "Loss:", loss)
 print("RS:", RS)
 original = 100
 print("RSI:", RSI)
+print("Original:", original)
